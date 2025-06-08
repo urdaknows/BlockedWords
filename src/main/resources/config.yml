@@ -1,0 +1,54 @@
+# Use this plugin so you can block words, symbols and letters in your server chat. Remember that
+# any bug or error, you can tell me in discord iKiwo#0900
+# or you can report it from the plugin page
+
+# If you want update notifications to appear, use true/false
+update-notification: true
+
+# Here you can modify the maximum number of letters 
+# that a word can contain.
+# If it is true, it will block words that contain 25 or more letters. 
+# If it is false, everyone will be able to write words that have letters infinitely.
+enabled: true
+# Any change to this requires a restart.
+max-letters: 25
+
+# Here you can modify the time in which
+# the player can send another message.
+cooldown: 1
+messageCooldown: "&9&lBlocked&f&lWords &8›› &7You must wait &a1s &7before sending another message."
+
+# Here you can change the text that will be replaced by the blocked word
+message-replacer: "*"
+
+# With this plugin you can block words, 
+# letters and symbols in Minecraft chat.
+blocked-words:
+   chat:
+      - "pee"
+      - "Fuck"
+      - "pene"
+      - "p e n e"
+      - "www."
+      - "https://"
+      - "WWW."
+      - "HTTPS://"
+      - "http://"
+      - "http"
+      - "HTTP://"
+      - "Gay"
+      - "Lgbt"
+      - "Racist"
+      - "Shit"
+      - "hp"
+      - "hdp"
+      - "HP"
+      - "hijueputa"
+      - "mlp"
+      - "m l p"
+      - "malparido"
+      - "m a l p a r i d o"
+      - "h p"
+      - "vajina"
+      - "culo"
+      - "kulo"

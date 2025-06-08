@@ -1,0 +1,12 @@
+name: BlockedWords
+version: 1.4
+main: com.github.urdaknows.BlockedWords
+author: urdaknows
+api-version: 1.13
+
+commands:
+  blocked:
+    description: Main Command BlockedWords
+    permission: blockedwords.bypass
+    aliases: [bw]
+

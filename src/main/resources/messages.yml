@@ -1,0 +1,11 @@
+# Here you can change the message when the plugin reloads
+reloadMessage: "&9&lBlocked&f&lWords &8›› &aConfiguration reloaded successfully."
+
+# Change this message to your preference which will be shown to the 
+# player so that they do not write in capital letters as much
+uppercaseMessage: "&9&lBlocked&f&lWords &8›› &cDon't write too much in capital letters."
+
+command-list-message:
+   - "&aAvailable Commands: &9&lBlocked&f&lWords"
+   - "&7- &6/blocked version&7: Check the plugin version."
+   - "&7- &6/blocked reload&7: Reload the plugin configuration."
